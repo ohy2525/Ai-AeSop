@@ -22,6 +22,7 @@ Ai-AeSop은 어린아이를 위한 동화 서비스입니다. 부모님의 목�
   - TTS모델에 들어가는 텍스트에 대한 전처리
   - 자소를 음소로 변환하는 작업
 - 예시
+
 https://user-images.githubusercontent.com/81752763/172762497-48deec20-a7d8-442e-afec-3cffb35c81a9.mp4
 
 
@@ -33,6 +34,7 @@ https://user-images.githubusercontent.com/81752763/172762497-48deec20-a7d8-442e-
 - GPT2 
   - Masked self attention 사용
 - 예시
+
 https://user-images.githubusercontent.com/81752763/172762622-335e5912-b5c3-4d68-9fa2-59727eb5d017.mp4
 
 
